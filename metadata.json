@@ -1,0 +1,5 @@
+{
+  "name": "CESO BOT",
+  "description": "A chatbot specialized in Brazilian Labor Health and Safety (SST), designed to assist users of CESO.med.br with questions about CLT, NRs, and eSocial.",
+  "requestFramePermissions": []
+}
